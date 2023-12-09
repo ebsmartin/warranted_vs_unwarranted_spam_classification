@@ -1,0 +1,128 @@
+Starting data processing...
+Processing file: processed_emails_05.csv
+Data loaded for processed_emails_05.csv.
+Shape of DataFrame: (7160, 65)
+File: processed_emails_05.csv
+Maximum Word Count: 32272
+Average Word Count: 2871.83
+Median Word Count: 2580.0
+Mode Word Count: 88
+------------------------------
+Processing file: processed_emails_06.csv
+Data loaded for processed_emails_06.csv.
+Shape of DataFrame: (19266, 72)
+File: processed_emails_06.csv
+Maximum Word Count: 37784
+Average Word Count: 2684.72
+Median Word Count: 2418.0
+Mode Word Count: 268
+------------------------------
+Processing file: processed_emails_07.csv
+Data loaded for processed_emails_07.csv.
+Shape of DataFrame: (26704, 74)
+File: processed_emails_07.csv
+Maximum Word Count: 60325
+Average Word Count: 2258.48
+Median Word Count: 1749.0
+Mode Word Count: 1138
+------------------------------
+Processing file: processed_emails_08.csv
+Data loaded for processed_emails_08.csv.
+Shape of DataFrame: (34262, 75)
+File: processed_emails_08.csv
+Maximum Word Count: 42150
+Average Word Count: 2781.35
+Median Word Count: 2435.0
+Mode Word Count: 1070
+------------------------------
+Processing file: processed_emails_09.csv
+Data loaded for processed_emails_09.csv.
+Shape of DataFrame: (25181, 72)
+File: processed_emails_09.csv
+Maximum Word Count: 44368
+Average Word Count: 2480.75
+Median Word Count: 1913.0
+Mode Word Count: 1127
+------------------------------
+Processing file: processed_emails_10.csv
+Data loaded for processed_emails_10.csv.
+Shape of DataFrame: (22794, 70)
+File: processed_emails_10.csv
+Maximum Word Count: 39394
+Average Word Count: 2638.76
+Median Word Count: 2143.0
+Mode Word Count: 1133
+------------------------------
+Processing file: processed_emails_11.csv
+Data loaded for processed_emails_11.csv.
+Shape of DataFrame: (13966, 67)
+File: processed_emails_11.csv
+Maximum Word Count: 37954
+Average Word Count: 2648.04
+Median Word Count: 2146.5
+Mode Word Count: 1136
+------------------------------
+Processing file: processed_emails_labelled_spam_05.csv
+Data loaded for processed_emails_labelled_spam_05.csv.
+Shape of DataFrame: (57, 26)
+File: processed_emails_labelled_spam_05.csv
+Maximum Word Count: 13101
+Average Word Count: 3992.81
+Median Word Count: 4365.0
+Mode Word Count: 4507
+------------------------------
+Processing file: processed_emails_labelled_spam_06.csv
+Data loaded for processed_emails_labelled_spam_06.csv.
+Shape of DataFrame: (308, 42)
+File: processed_emails_labelled_spam_06.csv
+Maximum Word Count: 9693
+Average Word Count: 2024.23
+Median Word Count: 1153.5
+Mode Word Count: 44
+------------------------------
+Processing file: processed_emails_labelled_spam_07.csv
+Data loaded for processed_emails_labelled_spam_07.csv.
+Shape of DataFrame: (376, 41)
+File: processed_emails_labelled_spam_07.csv
+Maximum Word Count: 8727
+Average Word Count: 1681.57
+Median Word Count: 746.5
+Mode Word Count: 95
+------------------------------
+Processing file: processed_emails_labelled_spam_08.csv
+Data loaded for processed_emails_labelled_spam_08.csv.
+Shape of DataFrame: (1934, 47)
+File: processed_emails_labelled_spam_08.csv
+Maximum Word Count: 24803
+Average Word Count: 3510.09
+Median Word Count: 3307.5
+Mode Word Count: 1130
+------------------------------
+Processing file: processed_emails_labelled_spam_09.csv
+Data loaded for processed_emails_labelled_spam_09.csv.
+Shape of DataFrame: (32, 38)
+File: processed_emails_labelled_spam_09.csv
+Maximum Word Count: 10831
+Average Word Count: 2831.31
+Median Word Count: 2436.0
+Mode Word Count: 1365
+------------------------------
+Processing file: processed_emails_labelled_spam_10.csv
+Data loaded for processed_emails_labelled_spam_10.csv.
+Shape of DataFrame: (110, 39)
+File: processed_emails_labelled_spam_10.csv
+Maximum Word Count: 11893
+Average Word Count: 2279.28
+Median Word Count: 1617.0
+Mode Word Count: 1351
+------------------------------
+Processing file: processed_emails_labelled_spam_11.csv
+Data loaded for processed_emails_labelled_spam_11.csv.
+Shape of DataFrame: (82, 35)
+File: processed_emails_labelled_spam_11.csv
+Maximum Word Count: 19492
+Average Word Count: 2772.01
+Median Word Count: 2227.0
+Mode Word Count: 237
+------------------------------
+Data processing complete.
